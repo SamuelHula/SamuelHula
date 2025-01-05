@@ -1,7 +1,7 @@
 # Hi, I’m @SamuelHula 👋
 
 
-### I am a Student | Front-end Web Developer
+## I am a Student | Front-end Web Developer
 
 - 👀 I’m interested in Web Development, Cybersecurity, Software Development
 - 🌱 I’m currently learning JavaScript | C#
