@@ -9,4 +9,4 @@
 - 🏫 Studying at the Vocational Highschool of Jozef Murgaš
 - ⚡ Fun fact: I like Frogs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true)](https://github.com/SamuelHula/github-readme-stats&show_icons=true)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true"/>
