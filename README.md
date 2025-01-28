@@ -8,6 +8,7 @@
 - 📫 How to reach me samko.hula@gmail.com
 - 🏫 Studying at the Vocational Highschool of Jozef Murgaš
 - ⚡ Fun fact: I like Frogs
+##
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true"/>
 
