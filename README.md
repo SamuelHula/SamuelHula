@@ -12,3 +12,5 @@
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true"/>
 
 <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHula"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHula&langs_count=8)
