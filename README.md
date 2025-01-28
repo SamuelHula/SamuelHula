@@ -10,6 +10,6 @@
 - ⚡ Fun fact: I like Frogs
 ##
 
-<img alt="my stats" align="left" width="47%" height="300px" src="https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SamuelHula&show_icons=true"/>
 
-<img alt="most used languages" align="right" width="47%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHula&layout=compact"/>
+<img alt="most used languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelHula&layout=compact"/>
