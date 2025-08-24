@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samohula) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=data:image/svg+xml;base64,PHN2Zy…&logoColor=white)](https://www.linkedin.com/in/samohula/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/samohula/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samko.hula@gmail.com)
 
 # 💻 Tech Stack:
