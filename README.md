@@ -6,6 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/samohula)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg)](https://www.linkedin.com/in/samohula/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samko.hula@gmail.com)
+<a href="https://www.linkedin.com/in/samohula/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" height="20" />
+  LinkedIn
+</a>
+
 
 
 
